@@ -1,6 +1,6 @@
 # OpenCore Guide
 
-![Big Sur Success](https://i.ibb.co/J3QV2Br/Screenshot-2020-11-30-at-23-13-08.png)
+![Big Sur Success](https://i.ibb.co/5vphKWX/Screenshot-2020-11-30-at-23-13-08.png)
 
 ### Hardware:
 
