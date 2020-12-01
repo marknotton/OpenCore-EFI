@@ -123,14 +123,14 @@ Type in: `diskpart` to open a command line tool for managing partitions.
 
 Then type in the following commands, making sure the disk number is the one you're after.
 
-`list disk`
-`sel disk 0`
-`list partition`
-`sel partition 1`
-`SET ID=ebd0a0a2-b9e5-4433-87c0-68b6b72699c7`
-`list partition`
-`sel partition 1`
-`delete partition override`
+ - `list disk`
+ - `sel disk 0` 
+ - `list partition` 
+ - `sel partition 1`
+ -  `SET ID=ebd0a0a2-b9e5-4433-87c0-68b6b72699c7` 
+ - `list partition` 
+ - `sel partition 1` 
+ - `delete partition override`
 
 Opening "Disk Manager" will give you to option to format and visually see the partitions on all drives.  
 
