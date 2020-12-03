@@ -105,7 +105,7 @@ The config.plist sanity checker suggests I no longer needed them. I think these 
 ### Bios: 
 
 - Advanced Mode → USB Configuration → XHCI Hand-off : Enabled
-- Advanced Mode → Boot > CMS (Compatibility Support Module) → Launch CSM : Disabled
+- Advanced Mode → Boot → CMS (Compatibility Support Module) → Launch CSM : Disabled
 
 Turning CSM off seems to be controversial. It may make no difference in the end, but mine is off and everything's ok so far. 
 
