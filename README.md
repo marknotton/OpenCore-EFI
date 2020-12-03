@@ -13,7 +13,7 @@
 
 ----------------
 
-**Follow this video tutorial, the notes below detail where I did things slightly differently.** 
+**Follow this great video tutorial from [TECHNolli](https://www.youtube.com/c/TechNolli/featured), the notes in this guide detail where I did things slightly differently with insights to troubleshooting I've made along the way..** 
 https://www.youtube.com/watch?v=jqg7MX3FS7M
 
 ----------------
@@ -127,9 +127,6 @@ Then type in the following commands, making sure the disk number is the one you'
  - `sel disk 0` 
  - `list partition` 
  - `sel partition 1`
- -  `SET ID=ebd0a0a2-b9e5-4433-87c0-68b6b72699c7` 
- - `list partition` 
- - `sel partition 1` 
  - `delete partition override`
 
 Opening "Disk Manager" will give you to option to format and visually see the partitions on all drives.  
