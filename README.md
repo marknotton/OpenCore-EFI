@@ -1,7 +1,7 @@
 
 # OpenCore 6.4 Big Sur Installation Guide
 
-![Big Sur Success](https://i.ibb.co/5vphKWX/Screenshot-2020-11-30-at-23-13-08.png)
+![Big Sur Success](https://i.ibb.co/8gZF2qq/Screenshot-2020-12-23-at-10-39-23-pm.png)
 
 ## Hardware:  
 
