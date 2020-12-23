@@ -1,7 +1,5 @@
 
-# OpenCore Big Sur Installation Guide
-
-  
+# OpenCore 6.4 Big Sur Installation Guide
 
 ![Big Sur Success](https://i.ibb.co/5vphKWX/Screenshot-2020-11-30-at-23-13-08.png)
 
@@ -16,7 +14,7 @@
 
 ## Youtube Guide
 Follow this great video tutorial from [TECHNolli](https://www.youtube.com/c/TechNolli/featured). My guide is just an extension to this video, where I detail the things I did differently and the troubleshooting I made along the way.
-  
+
 [![How to install macOS Big Sur on a PC using OpenCore` ](https://i.ibb.co/TrpSDXq/youtube-video.jpg)](https://www.youtube.com/watch?v=jqg7MX3FS7M)
 
 **Youtube Video: https://www.youtube.com/watch?v=jqg7MX3FS7M**

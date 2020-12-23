@@ -84,7 +84,12 @@
 			<false/>
 			<key>SyncRuntimePermissions</key>
 			<false/>
+			<key>AllowRelocationBlock</key>
+			<false/>
 		</dict>
+		<key>Patch</key>
+		<array>
+		</array>
 	</dict>
 	<key>DeviceProperties</key>
 	<dict>
@@ -94,6 +99,11 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>AwASWQ==</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
+			<dict>
+				<key>layout-id</key>
+				<data>AQAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -363,6 +373,8 @@
 			<integer>0</integer>
 			<key>Vault</key>
 			<string>Optional</string>
+			<key>BlacklistAppleUpdate</key>
+			<true/>
 		</dict>
 		<key>Tools</key>
 		<array>
@@ -458,7 +470,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C02814609J9J0PGA8</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>SystemMemoryStatus</key>
@@ -470,9 +482,9 @@
 			<key>SystemProductName</key>
 			<string>iMac18,3</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02WJ00ZJ1GJ</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>E1C370AE-18B9-4B30-9AFB-F6806491776F</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -513,7 +525,7 @@
 			<key>MinimumVolume</key>
 			<integer>20</integer>
 			<key>PlayChime</key>
-			<false/>
+			<string>Auto</string>
 			<key>VolumeAmplifier</key>
 			<integer>0</integer>
 		</dict>
