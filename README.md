@@ -163,7 +163,7 @@ iCloud is important to me, I use it all the time... but I had exhausted all my o
 
 ### 4. Updating Big Sur to 11.1 (23/12/2020)
 
-Following the success stories from many other people being able to simply update Big Sur using MacOS's native **System Preferences → Software Update** tool, I attempted to do the same. After allowing the installer to reboot; OpenCore attempts to boot into a "Mackintosh HD" instead of my normal "Mac" SSD. After about 10-20 minutes the update would hang and I'd get the 🚫  failure image. Strangely enough the solution was to just disconnect additional monitors. Using one monitor allowed the installation to complete with no further issues.
+Following the success stories from many other people being able to simply update Big Sur using MacOS's native **System Preferences → Software Update** tool, I attempted to do the same. After allowing the installer to reboot; OpenCore attempts to boot into a "Mackintosh HD" instead of my normal "Mac" SSD. After about 10-20 minutes the update would hang and I'd get the :no_entry_sign: failure image. Strangely enough the solution was to just disconnect additional monitors. Using one monitor allowed the installation to complete with no further issues.
 
 Source: https://www.tonymacx86.com/threads/11-1-update-failed.308040/
 
