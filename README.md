@@ -147,7 +147,7 @@ When booting into the "Install macOS Big Sur (external)" with this single user m
 
 Source: https://www.olarila.com/topic/10793-macos-big-sur-11-beta-10-20a5395g/page/2/?tab=comments#comment-124857
 
-After I managed to install Big Sur to the SSD, the second reboot would go into an infinite loop. Restarting the PC and making no progress. At this point I needed to remove the `-s` argument. In the OpenCore Boot Menu I also selected the "Reset NVRAM" option, which changed the BIOS's boot order and renamed the UEFI USB drive to "OpenCore" instead of the USB manufacturer (SanDisk) name. You may not need to do any of this if you don't come accross the "device is write locked" error. 
+After I managed to install Big Sur to the SSD, the second reboot would go into an infinite loop. Restarting the PC and making no progress. At this point I needed to remove the `-s` argument. Which is easier said than done. Having access to a functioning Mac parition or second Mac computer is the only way you're going to be able to change that `-s` flag. In the OpenCore Boot Menu I also selected the "Reset NVRAM" option, which changed the BIOS's boot order and renamed the UEFI USB drive to "OpenCore" instead of the USB manufacturer (SanDisk) name. You may not need to do any of this if you don't come accross the "device is write locked" error. 
 
 ### 3. iCloud not uploading files
 Immidiatly after logging into iCloud for the first time, everything seemed to work. One-by-one Messages started to work, FaceTime, Contacts, Calander, etc... However iClouds did not seem to want to upload any files. The little cloud icon would appear next to the filename but next upload. I tried:
